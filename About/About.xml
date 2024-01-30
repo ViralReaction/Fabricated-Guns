@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Fabricated Guns</name>
+  <author>VR</author>
+  <packageId>VR.Guns</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description></description>
+  <modDependencies>
+    <!-- <li> -->
+      <!-- <packageId>oskarpotocki.vanillafactionsexpanded.core</packageId> -->
+      <!-- <displayName>Vanilla Expanded Framework</displayName> -->
+      <!-- <downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl> -->
+      <!-- <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl> -->
+    <!-- </li> -->
+  </modDependencies>
+  <loadAfter>
+  </loadAfter>
+</ModMetaData>
